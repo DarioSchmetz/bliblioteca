@@ -1,0 +1,1 @@
+﻿SELECT * FROM libro_regular l;

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Biblioteca/src"/>
+	<classpathentry kind="lib" path="Biblioteca/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dario/Desktop/Hospitales     2020/Hospitales_Dario_Schmetz/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="output" path="Biblioteca/bin"/>
+</classpath>
